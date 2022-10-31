@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Sitecore\Timer3\bin\Debug\netcoreapp3.1\Timer3.exe
+C:\Users\User\Desktop\Sitecore\Timer3\bin\Debug\netcoreapp3.1\Timer3.deps.json
+C:\Users\User\Desktop\Sitecore\Timer3\bin\Debug\netcoreapp3.1\Timer3.runtimeconfig.json
+C:\Users\User\Desktop\Sitecore\Timer3\bin\Debug\netcoreapp3.1\Timer3.runtimeconfig.dev.json
+C:\Users\User\Desktop\Sitecore\Timer3\bin\Debug\netcoreapp3.1\Timer3.dll
+C:\Users\User\Desktop\Sitecore\Timer3\bin\Debug\netcoreapp3.1\Timer3.pdb
+C:\Users\User\Desktop\Sitecore\Timer3\obj\Debug\netcoreapp3.1\Timer3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sitecore\Timer3\obj\Debug\netcoreapp3.1\Timer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\Timer3\obj\Debug\netcoreapp3.1\Timer3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\Timer3\obj\Debug\netcoreapp3.1\Timer3.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\Timer3\obj\Debug\netcoreapp3.1\Timer3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\Timer3\obj\Debug\netcoreapp3.1\Timer3.dll
+C:\Users\User\Desktop\Sitecore\Timer3\obj\Debug\netcoreapp3.1\Timer3.pdb
+C:\Users\User\Desktop\Sitecore\Timer3\obj\Debug\netcoreapp3.1\Timer3.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Sitecore\Country2\bin\Debug\netcoreapp3.1\Country2.deps.json
+C:\Users\User\Desktop\Sitecore\Country2\bin\Debug\netcoreapp3.1\Country2.dll
+C:\Users\User\Desktop\Sitecore\Country2\bin\Debug\netcoreapp3.1\Country2.pdb
+C:\Users\User\Desktop\Sitecore\Country2\obj\Debug\netcoreapp3.1\Country2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sitecore\Country2\obj\Debug\netcoreapp3.1\Country2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\Country2\obj\Debug\netcoreapp3.1\Country2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\Country2\obj\Debug\netcoreapp3.1\Country2.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\Country2\obj\Debug\netcoreapp3.1\Country2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\Country2\obj\Debug\netcoreapp3.1\Country2.dll
+C:\Users\User\Desktop\Sitecore\Country2\obj\Debug\netcoreapp3.1\Country2.pdb

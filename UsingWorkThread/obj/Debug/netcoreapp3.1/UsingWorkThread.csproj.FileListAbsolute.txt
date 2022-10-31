@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\bin\Debug\netcoreapp3.1\UsingWorkThread.exe
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\bin\Debug\netcoreapp3.1\UsingWorkThread.deps.json
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\bin\Debug\netcoreapp3.1\UsingWorkThread.runtimeconfig.json
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\bin\Debug\netcoreapp3.1\UsingWorkThread.runtimeconfig.dev.json
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\bin\Debug\netcoreapp3.1\UsingWorkThread.dll
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\bin\Debug\netcoreapp3.1\UsingWorkThread.pdb
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\obj\Debug\netcoreapp3.1\UsingWorkThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\obj\Debug\netcoreapp3.1\UsingWorkThread.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\obj\Debug\netcoreapp3.1\UsingWorkThread.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\obj\Debug\netcoreapp3.1\UsingWorkThread.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\obj\Debug\netcoreapp3.1\UsingWorkThread.dll
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\obj\Debug\netcoreapp3.1\UsingWorkThread.pdb
+C:\Users\User\Desktop\Sitecore\UsingWorkThread\obj\Debug\netcoreapp3.1\UsingWorkThread.genruntimeconfig.cache

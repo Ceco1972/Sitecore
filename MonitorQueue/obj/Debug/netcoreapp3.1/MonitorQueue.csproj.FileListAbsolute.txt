@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Sitecore\MonitorQueue\bin\Debug\netcoreapp3.1\MonitorQueue.exe
+C:\Users\User\Desktop\Sitecore\MonitorQueue\bin\Debug\netcoreapp3.1\MonitorQueue.deps.json
+C:\Users\User\Desktop\Sitecore\MonitorQueue\bin\Debug\netcoreapp3.1\MonitorQueue.runtimeconfig.json
+C:\Users\User\Desktop\Sitecore\MonitorQueue\bin\Debug\netcoreapp3.1\MonitorQueue.runtimeconfig.dev.json
+C:\Users\User\Desktop\Sitecore\MonitorQueue\bin\Debug\netcoreapp3.1\MonitorQueue.dll
+C:\Users\User\Desktop\Sitecore\MonitorQueue\bin\Debug\netcoreapp3.1\MonitorQueue.pdb
+C:\Users\User\Desktop\Sitecore\MonitorQueue\obj\Debug\netcoreapp3.1\MonitorQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\MonitorQueue\obj\Debug\netcoreapp3.1\MonitorQueue.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\MonitorQueue\obj\Debug\netcoreapp3.1\MonitorQueue.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\MonitorQueue\obj\Debug\netcoreapp3.1\MonitorQueue.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\MonitorQueue\obj\Debug\netcoreapp3.1\MonitorQueue.dll
+C:\Users\User\Desktop\Sitecore\MonitorQueue\obj\Debug\netcoreapp3.1\MonitorQueue.pdb
+C:\Users\User\Desktop\Sitecore\MonitorQueue\obj\Debug\netcoreapp3.1\MonitorQueue.genruntimeconfig.cache
+C:\Users\User\Desktop\Sitecore\MonitorQueue\obj\Debug\netcoreapp3.1\MonitorQueue.csproj.AssemblyReference.cache

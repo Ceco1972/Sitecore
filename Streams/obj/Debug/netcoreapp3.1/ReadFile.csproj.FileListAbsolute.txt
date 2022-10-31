@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Sitecore\Streams\bin\Debug\netcoreapp3.1\ReadFile.exe
+C:\Users\User\Desktop\Sitecore\Streams\bin\Debug\netcoreapp3.1\ReadFile.deps.json
+C:\Users\User\Desktop\Sitecore\Streams\bin\Debug\netcoreapp3.1\ReadFile.runtimeconfig.json
+C:\Users\User\Desktop\Sitecore\Streams\bin\Debug\netcoreapp3.1\ReadFile.runtimeconfig.dev.json
+C:\Users\User\Desktop\Sitecore\Streams\bin\Debug\netcoreapp3.1\ReadFile.dll
+C:\Users\User\Desktop\Sitecore\Streams\bin\Debug\netcoreapp3.1\ReadFile.pdb
+C:\Users\User\Desktop\Sitecore\Streams\obj\Debug\netcoreapp3.1\ReadFile.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sitecore\Streams\obj\Debug\netcoreapp3.1\ReadFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\Streams\obj\Debug\netcoreapp3.1\ReadFile.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\Streams\obj\Debug\netcoreapp3.1\ReadFile.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\Streams\obj\Debug\netcoreapp3.1\ReadFile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\Streams\obj\Debug\netcoreapp3.1\ReadFile.dll
+C:\Users\User\Desktop\Sitecore\Streams\obj\Debug\netcoreapp3.1\ReadFile.pdb
+C:\Users\User\Desktop\Sitecore\Streams\obj\Debug\netcoreapp3.1\ReadFile.genruntimeconfig.cache

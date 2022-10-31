@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Sitecore\ParallelFor\bin\Debug\netcoreapp3.1\ParallelFor.exe
+C:\Users\User\Desktop\Sitecore\ParallelFor\bin\Debug\netcoreapp3.1\ParallelFor.deps.json
+C:\Users\User\Desktop\Sitecore\ParallelFor\bin\Debug\netcoreapp3.1\ParallelFor.runtimeconfig.json
+C:\Users\User\Desktop\Sitecore\ParallelFor\bin\Debug\netcoreapp3.1\ParallelFor.runtimeconfig.dev.json
+C:\Users\User\Desktop\Sitecore\ParallelFor\bin\Debug\netcoreapp3.1\ParallelFor.dll
+C:\Users\User\Desktop\Sitecore\ParallelFor\bin\Debug\netcoreapp3.1\ParallelFor.pdb
+C:\Users\User\Desktop\Sitecore\ParallelFor\obj\Debug\netcoreapp3.1\ParallelFor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sitecore\ParallelFor\obj\Debug\netcoreapp3.1\ParallelFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\ParallelFor\obj\Debug\netcoreapp3.1\ParallelFor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\ParallelFor\obj\Debug\netcoreapp3.1\ParallelFor.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\ParallelFor\obj\Debug\netcoreapp3.1\ParallelFor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\ParallelFor\obj\Debug\netcoreapp3.1\ParallelFor.dll
+C:\Users\User\Desktop\Sitecore\ParallelFor\obj\Debug\netcoreapp3.1\ParallelFor.pdb
+C:\Users\User\Desktop\Sitecore\ParallelFor\obj\Debug\netcoreapp3.1\ParallelFor.genruntimeconfig.cache

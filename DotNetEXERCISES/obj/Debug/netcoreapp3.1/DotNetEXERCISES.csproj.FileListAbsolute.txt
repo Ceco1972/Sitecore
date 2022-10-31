@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\obj\Debug\netcoreapp3.1\DotNetEXERCISES.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\obj\Debug\netcoreapp3.1\DotNetEXERCISES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\obj\Debug\netcoreapp3.1\DotNetEXERCISES.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\obj\Debug\netcoreapp3.1\DotNetEXERCISES.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\obj\Debug\netcoreapp3.1\DotNetEXERCISES.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\bin\Debug\netcoreapp3.1\DotNetEXERCISES.exe
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\bin\Debug\netcoreapp3.1\DotNetEXERCISES.deps.json
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\bin\Debug\netcoreapp3.1\DotNetEXERCISES.runtimeconfig.json
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\bin\Debug\netcoreapp3.1\DotNetEXERCISES.runtimeconfig.dev.json
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\bin\Debug\netcoreapp3.1\DotNetEXERCISES.dll
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\bin\Debug\netcoreapp3.1\DotNetEXERCISES.pdb
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\obj\Debug\netcoreapp3.1\DotNetEXERCISES.dll
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\obj\Debug\netcoreapp3.1\DotNetEXERCISES.pdb
+C:\Users\User\Desktop\Sitecore\DotNetEXERCISES\obj\Debug\netcoreapp3.1\DotNetEXERCISES.genruntimeconfig.cache

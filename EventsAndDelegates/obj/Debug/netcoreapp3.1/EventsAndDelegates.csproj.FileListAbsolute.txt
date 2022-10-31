@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.exe
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.deps.json
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.json
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.dev.json
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.dll
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.dll
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+C:\Users\User\Desktop\Sitecore\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.genruntimeconfig.cache

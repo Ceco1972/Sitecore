@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Sitecore\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.exe
+C:\Users\User\Desktop\Sitecore\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.deps.json
+C:\Users\User\Desktop\Sitecore\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.runtimeconfig.json
+C:\Users\User\Desktop\Sitecore\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.runtimeconfig.dev.json
+C:\Users\User\Desktop\Sitecore\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.dll
+C:\Users\User\Desktop\Sitecore\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.pdb
+C:\Users\User\Desktop\Sitecore\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sitecore\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.dll
+C:\Users\User\Desktop\Sitecore\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.pdb
+C:\Users\User\Desktop\Sitecore\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.genruntimeconfig.cache

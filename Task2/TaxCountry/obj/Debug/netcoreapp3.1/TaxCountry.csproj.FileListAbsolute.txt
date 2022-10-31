@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Sitecore\TaxCountry\bin\Debug\netcoreapp3.1\TaxCountry.exe
+C:\Users\User\Desktop\Sitecore\TaxCountry\bin\Debug\netcoreapp3.1\TaxCountry.deps.json
+C:\Users\User\Desktop\Sitecore\TaxCountry\bin\Debug\netcoreapp3.1\TaxCountry.runtimeconfig.json
+C:\Users\User\Desktop\Sitecore\TaxCountry\bin\Debug\netcoreapp3.1\TaxCountry.runtimeconfig.dev.json
+C:\Users\User\Desktop\Sitecore\TaxCountry\bin\Debug\netcoreapp3.1\TaxCountry.dll
+C:\Users\User\Desktop\Sitecore\TaxCountry\bin\Debug\netcoreapp3.1\TaxCountry.pdb
+C:\Users\User\Desktop\Sitecore\TaxCountry\bin\Debug\netcoreapp3.1\Country2.dll
+C:\Users\User\Desktop\Sitecore\TaxCountry\bin\Debug\netcoreapp3.1\Country2.pdb
+C:\Users\User\Desktop\Sitecore\TaxCountry\obj\Debug\netcoreapp3.1\TaxCountry.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sitecore\TaxCountry\obj\Debug\netcoreapp3.1\TaxCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\TaxCountry\obj\Debug\netcoreapp3.1\TaxCountry.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\TaxCountry\obj\Debug\netcoreapp3.1\TaxCountry.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\TaxCountry\obj\Debug\netcoreapp3.1\TaxCountry.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\TaxCountry\obj\Debug\netcoreapp3.1\TaxCountry.csproj.CopyComplete
+C:\Users\User\Desktop\Sitecore\TaxCountry\obj\Debug\netcoreapp3.1\TaxCountry.dll
+C:\Users\User\Desktop\Sitecore\TaxCountry\obj\Debug\netcoreapp3.1\TaxCountry.pdb
+C:\Users\User\Desktop\Sitecore\TaxCountry\obj\Debug\netcoreapp3.1\TaxCountry.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Sitecore\BallCoordinates\bin\Debug\netcoreapp3.1\BallCoordinates.exe
+C:\Users\User\Desktop\Sitecore\BallCoordinates\bin\Debug\netcoreapp3.1\BallCoordinates.deps.json
+C:\Users\User\Desktop\Sitecore\BallCoordinates\bin\Debug\netcoreapp3.1\BallCoordinates.runtimeconfig.json
+C:\Users\User\Desktop\Sitecore\BallCoordinates\bin\Debug\netcoreapp3.1\BallCoordinates.runtimeconfig.dev.json
+C:\Users\User\Desktop\Sitecore\BallCoordinates\bin\Debug\netcoreapp3.1\BallCoordinates.dll
+C:\Users\User\Desktop\Sitecore\BallCoordinates\bin\Debug\netcoreapp3.1\BallCoordinates.pdb
+C:\Users\User\Desktop\Sitecore\BallCoordinates\obj\Debug\netcoreapp3.1\BallCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\BallCoordinates\obj\Debug\netcoreapp3.1\BallCoordinates.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\BallCoordinates\obj\Debug\netcoreapp3.1\BallCoordinates.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\BallCoordinates\obj\Debug\netcoreapp3.1\BallCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\BallCoordinates\obj\Debug\netcoreapp3.1\BallCoordinates.dll
+C:\Users\User\Desktop\Sitecore\BallCoordinates\obj\Debug\netcoreapp3.1\BallCoordinates.pdb
+C:\Users\User\Desktop\Sitecore\BallCoordinates\obj\Debug\netcoreapp3.1\BallCoordinates.genruntimeconfig.cache
+C:\Users\User\Desktop\Sitecore\BallCoordinates\obj\Debug\netcoreapp3.1\BallCoordinates.csproj.AssemblyReference.cache

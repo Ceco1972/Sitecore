@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Sitecore\ReflectionTask\bin\Debug\netcoreapp3.1\ReflectionTask.exe
+C:\Users\User\Desktop\Sitecore\ReflectionTask\bin\Debug\netcoreapp3.1\ReflectionTask.deps.json
+C:\Users\User\Desktop\Sitecore\ReflectionTask\bin\Debug\netcoreapp3.1\ReflectionTask.runtimeconfig.json
+C:\Users\User\Desktop\Sitecore\ReflectionTask\bin\Debug\netcoreapp3.1\ReflectionTask.runtimeconfig.dev.json
+C:\Users\User\Desktop\Sitecore\ReflectionTask\bin\Debug\netcoreapp3.1\ReflectionTask.dll
+C:\Users\User\Desktop\Sitecore\ReflectionTask\bin\Debug\netcoreapp3.1\ReflectionTask.pdb
+C:\Users\User\Desktop\Sitecore\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sitecore\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.dll
+C:\Users\User\Desktop\Sitecore\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.pdb
+C:\Users\User\Desktop\Sitecore\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.genruntimeconfig.cache
+C:\Users\User\Desktop\Sitecore\ReflectionTask\bin\Debug\netcoreapp3.1\HelloLibrary.dll
+C:\Users\User\Desktop\Sitecore\ReflectionTask\obj\Debug\netcoreapp3.1\ReflectionTask.csproj.CopyComplete

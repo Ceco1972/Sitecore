@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Sitecore\MemoryStream\bin\Debug\netcoreapp3.1\MemoryStream.exe
+C:\Users\User\Desktop\Sitecore\MemoryStream\bin\Debug\netcoreapp3.1\MemoryStream.deps.json
+C:\Users\User\Desktop\Sitecore\MemoryStream\bin\Debug\netcoreapp3.1\MemoryStream.runtimeconfig.json
+C:\Users\User\Desktop\Sitecore\MemoryStream\bin\Debug\netcoreapp3.1\MemoryStream.runtimeconfig.dev.json
+C:\Users\User\Desktop\Sitecore\MemoryStream\bin\Debug\netcoreapp3.1\MemoryStream.dll
+C:\Users\User\Desktop\Sitecore\MemoryStream\bin\Debug\netcoreapp3.1\MemoryStream.pdb
+C:\Users\User\Desktop\Sitecore\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sitecore\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sitecore\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.AssemblyInfo.cs
+C:\Users\User\Desktop\Sitecore\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sitecore\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.dll
+C:\Users\User\Desktop\Sitecore\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.pdb
+C:\Users\User\Desktop\Sitecore\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.genruntimeconfig.cache
+C:\Users\User\Desktop\Sitecore\MemoryStream\obj\Debug\netcoreapp3.1\MemoryStream.csproj.AssemblyReference.cache
